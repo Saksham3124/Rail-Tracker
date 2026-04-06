@@ -1,0 +1,8 @@
+.env
+venv/
+__pycache__/
+*.pyc
+
+# Data files
+data/*.csv
+!data/train_history.csv
